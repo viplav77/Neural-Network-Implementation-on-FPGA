@@ -6,3 +6,6 @@ This VHDL file controls the nn_inference IP module, initiates its operation, and
 
 ## not_gate.vhd: 
 This VHDL file implements a digital logic component that performs an inversion of its input signal.
+
+## Vivado.jpg
+Vivado design shows the block design created in the vivado environment.
