@@ -12,3 +12,13 @@ VHDL code modules for managing the generated neural network inference hardware m
 
 ## Vitis
 Makng C code application for facilitating communication between a host PC and the generated neural network inference hardware module.
+
+
+
+### Prerequisites
+Pynq-Z1 board, PC, USB-A to micro USB cable.
+
+
+
+
+
