@@ -1,16 +1,3 @@
-----------------------------------------------------------------------------------
--- Company: SDU, UAS, DIII
--- Engineer: Nicolaj Malle
--- 
--- Create Date: 10/08/2021 12:17:41 PM
--- Project Name: FPGA_AI
--- Target Devices: PYNQ-Z2
--- Tool Versions: 2021.1
--- Description: Starts nn_inference IP module and outputs inference results
--- on  PYNQ-Z2 board LEDs.
-----------------------------------------------------------------------------------
-
-
 
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
