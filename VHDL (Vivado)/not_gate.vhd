@@ -1,14 +1,3 @@
-----------------------------------------------------------------------------------
--- Company: SDU, UAS, DIII
--- Engineer: Nicolaj Malle
--- 
--- Create Date: 10/08/2021 05:45:27 PM
--- Project Name: FPGA_AI
--- Target Devices: PYNQ-Z2
--- Tool Versions: 2021.1
--- Description: Inverts input.
-----------------------------------------------------------------------------------
-
 
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
